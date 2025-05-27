@@ -5,9 +5,9 @@ A simple Ping Pong game developed using **OpenGL** as part of my **Computer Grap
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohit-Hasan/Random-Emoji-Generator/refs/heads/main/repo_assets/screenshoot_1.png" width="30%" />
-  <img src="https://raw.githubusercontent.com/Mohit-Hasan/Random-Emoji-Generator/refs/heads/main/repo_assets/screenshoot_2.png" width="30%" />
-  <img src="https://raw.githubusercontent.com/Mohit-Hasan/Random-Emoji-Generator/refs/heads/main/repo_assets/screenshoot_3.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/Mohit-Hasan/opengl-pingpong-game/refs/heads/main/repo_assets/screenshoot_1.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/Mohit-Hasan/opengl-pingpong-game/refs/heads/main/repo_assets/screenshoot_2.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/Mohit-Hasan/opengl-pingpong-game/refs/heads/main/repo_assets/screenshoot_3.png" width="30%" />
 </p>
 
 ## 🕹️ Features
